@@ -1,5 +1,5 @@
 - 👋 This is @TofazzalTopu
-- 👀 Interested in J2EE backend development with the speciality in Spring Boot.
+- 👀 Interested in J2EE backend development with the speciality in Spring Boot, Spring Data, Hibernate, Kafka.
 - 🌱 Currently working micro-service deployment with docker, jenkins, AWS, GCP, Azure. 
 - 💞️ Love to collaborate on micro-service development.
 - 📫 Reach me at: manik.mmanik@gmail.com
